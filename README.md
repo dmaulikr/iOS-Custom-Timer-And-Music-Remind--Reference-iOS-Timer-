@@ -17,8 +17,8 @@
     `// Show message in the screen.`
 
 
-#Screen Image
-===============
+
+##Screen Image：
 
 <img src="timer1.png" width="270" height="400" alt="Black" />
 <img src="timer2.png" width="270" height="400" alt="Black" />
