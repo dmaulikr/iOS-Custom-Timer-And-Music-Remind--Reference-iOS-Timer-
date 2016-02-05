@@ -22,8 +22,8 @@
 Screen Image
 ===============
 
-<img src="timer1.png" width="250" height="400" alt="Black" />
-<img src="timer2.png" width="250" height="400" alt="Black" />
-<img src="timer3.png" width="250" height="400" alt="Black" />
-<img src="timer4.png" width="250" height="400" alt="Black" />
-<img src="timer5.png" width="250" height="400" alt="Black" />
+<img src="timer1.png" width="270" height="400" alt="Black" />
+<img src="timer2.png" width="270" height="400" alt="Black" />
+<img src="timer3.png" width="270" height="400" alt="Black" />
+<img src="timer4.png" width="270" height="400" alt="Black" />
+<img src="timer5.png" width="270" height="400" alt="Black" />
