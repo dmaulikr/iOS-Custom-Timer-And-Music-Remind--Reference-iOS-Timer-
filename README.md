@@ -1,7 +1,6 @@
 # iOS-Custom-Timer-And-Music-Remind--Reference-iOS-Timer-
 ## Introduction：
-## Video：https://www.youtube.com/watch?v=q5mT870aCrU
-###**[Demonstration Videos](https://www.youtube.com/watch?v=q5mT870aCrU)**.
+###**[Demonstration Videos](https://www.youtube.com/watch?v=q5mT870aCrU)**
 (https://www.youtube.com/watch?v=q5mT870aCrU)
 
 - 1.Set left Time, and Start timer. Of course you can Previously or timing set reminders music.
