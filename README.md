@@ -3,19 +3,19 @@
 ## Video：https://www.youtube.com/watch?v=q5mT870aCrU
 
 
-- 1.Touch Select Button. (There are three buttons, respectively R, G, B.)
+- 1.Set left Time, and Start timer. Of course you can Previously or timing set reminders music.
 
-    `// If you change R Button.`
-
-
-- 2.Mobile Slider. The Slider value Will change to the Color's RGB Value.
-
-    `// slider value range 0 to 255, and Slider Value just is equivalent R Value.`
+    `// If you set 2 minute.`
 
 
-- 3.The Screen will change Show Color.
+- 2.You can select "Stop", "Continue" and "Remind".
 
-    `// Tye selct other Button and moblie Slider. And observe the change of color on the screen.`
+    `// You can cancel the reminder or stop timer.`
+
+
+- 3.Time Now.
+
+    `// Show message in the screen.`
 
 
 ======================
