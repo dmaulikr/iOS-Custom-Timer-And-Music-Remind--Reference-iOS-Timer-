@@ -5,30 +5,17 @@
 A simple iOS Custom Timer And Music Remind (Reference iOS Timer), Use device is iPad, if you are interested, you can try use AutoLayout to make various devices version.
 
 
-- 1.Custom iBeacon "UUID", "Major", "Minor" and "Device Name".
+// Show message in the screen.
 
-    `// If you set 2 minute.`
+- 1.Set left Time, and Start timer. Of course you can Previously or timing set reminders music.
 
+// If you set 2 minute.
 
-- 2.Broadcasting iBeacon signal.
+- 2.You can select "Stop", "Continue" and "Remind".
 
-    `// You can cancel the reminder or stop timer.`
-    
+// You can cancel the reminder or stop timer.
 
-- 3.Use Android Phone open Estimote App searching iBeacon, check detected iBeacon information.
-
-    `// Show message in the screen.`
-
-
-- 4.Try modify  iBeacon "UUID", "Major", "Minor" and "Device Name" then Searching detected iBeacon information.
-
-    `// Show message in the screen.`
-
-
-- 5.Use Bluetooth Device search "Device Name" and understand the differences between the iBeacon Devcie and Bluetooth Device.
-
-    `// Show message in the screen.`
-
+- 3.Time Now.
 
 
 ##Screen Image：
